@@ -1,4 +1,4 @@
-let noSrc = "../assets/sad-spongebob.gif";
+let noSrc = "/valentines/assets/sad-spongebob.gif";
 
 function nextPage() {
     window.location.href = "yes.html";
